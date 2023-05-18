@@ -1,1 +1,4 @@
 *.html linguist-dectectable-true
+*.html linguist-dectectable-true
+*.css linguist-dectectable-true
+*.js linguist-dectectable-true
